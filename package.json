@@ -1,0 +1,15 @@
+{
+	"name": "create_a_database",
+	"version": "1.0.0",
+	"description": "just merging some dataset's then putting them into a database, after all that hard work I create an updated customer.json document.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Kebalepile T Motshoana",
+	"license": "ISC",
+	"dependencies": {
+		"mongodb": "^3.2.5"
+	}
+}
